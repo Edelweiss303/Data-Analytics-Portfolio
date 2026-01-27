@@ -14,7 +14,7 @@
 ## 📊 Key Findings
 1.  **1-Day Retention:** The control group (Gate @ 30) had a slightly higher retention rate (44.8%) compared to the test group (44.2%).
 2.  **7-Day Retention:** The advantage for the control group grew stronger over time.
-3.  **Statistical Confidence:** Bootstrap analysis indicates a **99% probability** that retention is higher when the gate is kept at Level 30.
+3.  **Statistical Confidence:** Bootstrap analysis indicates a **99.8% probability** that retention is higher when the gate is kept at Level 30.
 
 ## 💡 Recommendation
 **Do not move the gate.**
