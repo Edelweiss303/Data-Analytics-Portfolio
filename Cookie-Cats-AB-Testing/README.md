@@ -21,4 +21,4 @@
 Keeping the gate at Level 30 results in higher long-term player engagement. Moving it to Level 40 likely reduces the urgency for players to return, negatively impacting LTV (Lifetime Value).
 
 ---
-*Check out the full analysis in the [Jupyter Notebook](./notebook.ipynb).*
+*Check out the full analysis in the [Jupyter Notebook](./CoookieCatsNotebook.ipynb).*
