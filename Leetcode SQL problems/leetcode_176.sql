@@ -1,7 +1,7 @@
 -- Leetcode 176: Second Highest Salary
 
 SELECT 
-    MAX(salary) as SecondHighestSalary 
+    MAX(salary) AS SecondHighestSalary 
 FROM
     Employee
 WHERE 
