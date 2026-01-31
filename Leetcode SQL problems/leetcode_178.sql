@@ -2,7 +2,7 @@
 
 SELECT 
     score,
-    DENSE_RANK() OVER (ORDER BY score DESC) as 'rank'
+    DENSE_RANK() OVER (ORDER BY score DESC) AS 'rank'
 FROM
     Scores
     
