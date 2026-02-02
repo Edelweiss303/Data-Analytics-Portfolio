@@ -1,4 +1,5 @@
 -- Leetcode 1174: Immediate Food Delivery II
+
 With FirstOrders AS(
     SELECT 
         customer_id,
